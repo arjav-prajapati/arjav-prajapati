@@ -29,7 +29,7 @@
  👨‍🎓 &emsp; Currently pursuing B.E. in Information Technology from L. D. College of Engineering <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: arjavprajapati12@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:arjavprajapati12@gmail.com">arjavprajapati12@gmail.com<a><br/><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/arjav-prajapati/arjav-prajapati/issue">here</a>
 </p>
 
