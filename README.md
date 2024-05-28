@@ -85,3 +85,4 @@
 
 
 ![Arjav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjav-prajapati&custom_title=Arjav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjav-prajapati&theme=dark&hide_border=false)<br>
