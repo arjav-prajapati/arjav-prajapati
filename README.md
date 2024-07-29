@@ -30,7 +30,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to write code and learn new Technologies.<br/><br/>
  📧 &emsp; Reach me anytime: <a href="mailto:arjavprajapati12@gmail.com">arjavprajapati12@gmail.com<a><br/><br/>
- 💬 &emsp; Ask me about anything <a href="https://github.com/arjav-prajapati/arjav-prajapati/issue">here</a>
+ 💬 &emsp; Ask me about anything <a href="https://github.com/arjav-prajapati/arjav-prajapati/issue">here</a>.
 </p>
 
 <br/>
@@ -77,8 +77,8 @@
 <br/>
 
 <a> 
-    <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arjav-prajapati&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arjav-prajapati&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<!--     <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arjav-prajapati&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<!--   <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arjav-prajapati&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
   <br/>
 </a>
 <br/>
