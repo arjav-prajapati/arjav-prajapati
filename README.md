@@ -25,7 +25,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/Assets/coding.gif" alt="Coding gif" />
  👨‍🎓 &emsp; Currently pursuing B.E. in Information Technology from L. D. College of Engineering <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to write code and learn new Technologies.<br/><br/>
