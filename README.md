@@ -5,7 +5,6 @@
         </samp>
 </h1>
 
-
 <h3 align="center"> 
   <samp>
     「 I am a full stack web application developer from <b>INDIA</b> 」
@@ -22,10 +21,11 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
  👨‍🎓 &emsp; Currently pursuing B.E. in Information Technology from L. D. College of Engineering <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to write code and learn new Technologies.<br/><br/>
@@ -49,6 +49,7 @@
 <br/>
 
 ## Top contributions
+
 [![Campus Voice](https://github-readme-stats.vercel.app/api/pin/?username=arjav-prajapati&repo=CampusVoice&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arjav-prajapati/CampusVoice)
 [![XMeter](https://github-readme-stats.vercel.app/api/pin/?username=arjav-prajapati&repo=XMeter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arjav-prajapati/XMeter)
 
@@ -82,6 +83,5 @@
   <br/>
 </a>
 <br/>
-
 
 ![Arjav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjav-prajapati&custom_title=Arjav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
