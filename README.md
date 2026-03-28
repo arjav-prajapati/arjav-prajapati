@@ -7,7 +7,7 @@
 
 <h3 align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>INDIA</b> 」
+    「 I am a developer 」
     <br>
     <br>
   </samp>
