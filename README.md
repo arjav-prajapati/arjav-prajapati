@@ -41,7 +41,7 @@
 ## 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,nodejs,npm,react,expressjs,nextjs,tailwindcss,graphql,mongodb,mysql,postgresql,redis,git,github" 
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,nodejs,npm,react,expressjs,nextjs,tailwindcss,graphql,mongodb,mysql,postgresql,redis,git,github,docker,kubernetes,prisma,dribbble" 
 </p>
 
 <br/>
