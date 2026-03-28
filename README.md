@@ -27,8 +27,8 @@
 <p>
  <img align="right" width="350" src="/Assets/coding.gif" alt="Coding gif" />
  🧑‍💻 &emsp; Working as Software Engineer. <br/><br/>
- 👨‍🎓 &emsp; Holding B.E. in Information Technology from L. D. College of Engineering <br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 👨‍🎓 &emsp; Holding B.E. in Information Technology from L. D. College of Engineering. <br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
  ❤️ &emsp; Love to write code and learn new Technologies.<br/><br/>
  📧 &emsp; Reach me anytime: <a href="mailto:arjavprajapati12@gmail.com">arjavprajapati12@gmail.com<a><br/><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/arjav-prajapati/arjav-prajapati/issue">here</a>.
