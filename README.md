@@ -1,88 +1,73 @@
-<!-- Intro  -->
-<h1 align="center">
-        <samp>&gt; Hey There!, I am
-                <b color="blue">Arjav Prajapati</b>
-        </samp>
-</h1>
-
-<h3 align="center"> 
-  <samp>
-    「 I am a Software Engineer. 」
-    <br>
-    <br>
-  </samp>
-</h3>
+<h1 align="center">Hey, I'm Arjav Prajapati 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arjav-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjav-prajapati" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17889302/arjav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/17889302/arjav" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/arjav_prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjav_prajapati" height="30" width="40" /></a>
+  <b>Software Engineer · Backend & Data Engineering · Ahmedabad, India</b>
 </p>
-<br />
-
-<!-- About Section -->
-
-# About me
-
-<p>
- <img align="right" width="350" src="/Assets/coding.gif" alt="Coding gif" />
- 🧑‍💻 &emsp; Working as Software Engineer. <br/><br/>
- 👨‍🎓 &emsp; Holding B.E. in Information Technology from L. D. College of Engineering. <br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
- ❤️ &emsp; Love to write code and learn new Technologies.<br/><br/>
- 📧 &emsp; Reach me anytime: <a href="mailto:arjavprajapati12@gmail.com">arjavprajapati12@gmail.com<a><br/><br/>
- 💬 &emsp; Ask me about anything <a href="https://github.com/arjav-prajapati/arjav-prajapati/issue">here</a>.
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,nodejs,npm,react,expressjs,nextjs,tailwindcss,graphql,mongodb,mysql,postgresql,redis,git,github,docker,kubernetes,prisma,dribbble" 
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Top contributions
-
-[![Campus Voice](https://github-readme-stats.vercel.app/api/pin/?username=arjav-prajapati&repo=CampusVoice&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arjav-prajapati/CampusVoice)
-[![XMeter](https://github-readme-stats.vercel.app/api/pin/?username=arjav-prajapati&repo=XMeter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arjav-prajapati/XMeter)
-
-<p align="left">
-  <a href="https://github.com/arjav-prajapati?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## Github stats 📊📶
 
 <p align="center">
-  <a href="https://github.com/arjav-prajapati">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjav-prajapati&theme=radical&border=7F3FBF&background=0D1117" alt="Arjav's GitHub streak"/>
+  <a href="https://www.linkedin.com/in/arjav-prajapati-b69388257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arjavprajapati12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<br/>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer, I build backend systems, data pipelines, and cloud infrastructure that power real business workflows. I care about writing systems that are observable, maintainable, and built to last.
+
+- 🔧 Currently building **Splitdoo** - a monorepo expense-splitting app (NestJS · React Native · Supabase)
+- 🚀 Interested in backend systems, data engineering, and cloud infrastructure
+- 📚 B.E. Information Technology - L.D. College of Engineering (CPI: 8.66)
+
+---
+
+## 🚀 Languages - Frameworks - Tools - Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,express,react,nextjs,graphql,postgres,mysql,mongodb,docker,git,github,tailwind,supabase,prisma&perline=9" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💸 [Splitdoo](https://github.com/arjav-prajapati/splitdoo)
+A full-stack expense splitting app built as a monorepo. Features group expense tracking, smart split calculations, and real-time balance syncing across users.  
+`NestJS` · `React Native` · `Supabase` · `TypeScript`
+
+---
+
+### 🎵 [spotify-tracks-eda](https://github.com/arjav-prajapati/spotify-tracks-eda)
+Exploratory data analysis on Spotify track data — uncovering patterns in audio features, popularity trends, and genre clustering using statistical visualizations.  
+`Python` · `Pandas` · `Matplotlib` · `Jupyter Notebook`
+
+---
+
+### 🏫 [CampusVoice](https://github.com/arjav-prajapati/CampusVoice)
+A student feedback and query platform that lets college students raise issues and get responses from faculty — reducing resolution time through structured categorization.  
+`JavaScript` · `Node.js` · `Express`
+
+---
+
+### 💰 [XMeter](https://github.com/arjav-prajapati/XMeter)
+Personal finance tracker with expense logging, income tracking, payment split, and reminder features. Built collaboratively as a team project.  
+`JavaScript` · `Node.js` · `HTML/CSS`
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/arjav-prajapati">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjav-prajapati&theme=radical" alt="Arjav's GitHub Contribution"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjav-prajapati&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjav-prajapati&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
 </p>
-<br/>
 
-<a> 
-<!--     <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arjav-prajapati&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-<!--   <a href="https://github.com/arjav-prajapati"><img alt="Arjav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arjav-prajapati&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-  <br/>
-</a>
-<br/>
+---
 
-![Arjav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjav-prajapati&custom_title=Arjav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <i>Open to backend, data engineering, and full-stack opportunities. Let's build something meaningful.</i>
+</p>
